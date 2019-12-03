@@ -1,0 +1,11 @@
+{
+  "name": "algorithmicComplexity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:benfurber/algorithmicComplexity.git",
+  "author": "Ben Furber <ben@fu.rber.io>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc index.ts && node index.js"
+  }
+}
